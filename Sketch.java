@@ -63,7 +63,7 @@ public class Sketch extends PApplet {
 	  fill(0,0,0);
 	  ellipse(200, 110, 15, 15);
 	  
-	  // Smiley face
+	  // Smile
 	  fill(0,0,0);
 	  arc(200, 50, 10, 10, 0, PI); 
 	  
